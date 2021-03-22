@@ -17,7 +17,6 @@ The goal of this project is to develop knowledge and learn a simple CRM web appl
 
 ## Usage
 
-- Load into Python env
 - Run `python3 manage.py runserver` to start the server.
 
 ## Contributors
